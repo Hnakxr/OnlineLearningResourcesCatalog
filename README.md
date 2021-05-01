@@ -5,7 +5,7 @@ This is a collection of online learning resources grouped by subjects and topics
 Nothing yet
 
 ## Index
-[Science & Philosophy](./Science_and_Philosophy/INDEX.md)
+[Science & Philosophy](./Science_and_Philosophy/INDEX.md) \
 [Engineering_and_Technology](./Engineering_and_Technology/INDEX.md)
 
 ### Contact
