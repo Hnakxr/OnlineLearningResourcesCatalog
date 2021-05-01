@@ -1,5 +1,5 @@
 ## Index
-[Science & Philosophy](Science & Philosophy/INDEX.md)
+[Science & Philosophy](https://github.com/Hnakxr/OnlineLearningResourcesCatalog/blob/main/Science%20%26%20Philosophy/INDEX.md)
 
 
 ## Welcome to GitHub Pages
